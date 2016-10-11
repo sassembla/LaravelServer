@@ -1,0 +1,1 @@
+tail -f ./MyFirstLaravel/storage/logs/laravel.log
